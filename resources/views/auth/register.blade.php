@@ -28,7 +28,7 @@
                     </div>
                     <div class="mb-3">
                         <label for="password" class="form-label">password</label>
-                        <input type="text" name="password" class="form-control" id="password" placeholder="password" required>
+                        <input type="password" name="password" class="form-control" id="password" placeholder="password" required>
                     </div>
                     <div class="mb-3">
                         <div class="d-grid">
